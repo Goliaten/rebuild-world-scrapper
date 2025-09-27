@@ -1,0 +1,13 @@
+[project]
+name = "rebuild-world"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "lxml>=6.0.2",
+    "ruff>=0.13.2",
+    "selenium>=4.35.0",
+    "tqdm>=4.67.1",
+    "types-selenium>=3.141.9",
+]
