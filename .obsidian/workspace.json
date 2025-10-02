@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social/The Old World.md",
+                "file": "Monsters/Monsters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Old World"
+              "title": "Monsters"
             }
           },
           {
@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +219,10 @@
   },
   "active": "b7a3763abd407384",
   "lastOpenFiles": [
-    "Social/Social division.md",
     "Social/The Old World.md",
-    "Social/Hunters.md",
     "Social/Human Civilisation.md",
+    "Social/Social division.md",
+    "Social/Hunters.md",
     "characters/Akira.md",
     "timeline/overview.md",
     "Monsters/Monsters.md",
