@@ -141,7 +141,7 @@ Although he had no training in using hand gun, he was able to shot its head 3 ti
 
 But before that monster’s abnormally big mouth was able to rip off Akira’s arms, Akira instinctively thrust his arm to its mouth up to his elbow and pulled the trigger on his hand gun. And so the bullet passed through the monster’s mouth, straight through under its skull, and pierced its brain, and thus killing the monster.
 
-But then in the brief moment after that, as the monster was still alive, it clamped down hard on Akira’s arms. Fortunately, Akira was able to survive without losing his arm or his life.
+But then in the brief moment after that, as the monster was still alive, it clamped down hard on Akira’s arms. Fortunately, Akira was able to survive without losing his arm or his life. ^d42db0
 
 After surviving his third time, Akira decided to be a hunter. Although he pretty much understood just how dangerous it was to be a hunter, he was feeling hopeful and brimming with confidence after killing a monster all by himself.
 
