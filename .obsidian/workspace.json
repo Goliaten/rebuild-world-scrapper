@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline/overview.md",
+                "file": "Social/The Old World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "overview"
+              "title": "The Old World"
             }
           },
           {
@@ -218,11 +218,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b58991a5f0cb3d7f",
+  "active": "b7a3763abd407384",
   "lastOpenFiles": [
+    "characters/Alpha.md",
     "timeline/overview.md",
-    "Untitled.md",
     "wn_chapters/Chapter 1, Akira and Alpha.md",
+    "Untitled.md",
     "characters/Akira.md",
     "Social/Human Civilisation.md",
     "Social/The Old World.md",
@@ -234,7 +235,6 @@
     "TODO.md",
     "locations/Kuzusuhara Street Ruins.md",
     "Social/Old World Technology.md",
-    "characters/Alpha.md",
     "locations/The Ruins of the Old World.md",
     "wn_chapters/Chapter 263, Assault.md",
     "Social",
