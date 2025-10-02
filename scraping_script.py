@@ -35,6 +35,9 @@ def parse_save_chapter(data: WebElement, output_dir: str):
     keep_chars = (" ", ",")
     file_title = "".join(c for c in title if c.isalnum() or c in keep_chars).rstrip()
 
+    if f"{file_title}.md" in os.listdir(output_dir):
+        return
+
     chapter: WebElement = data.find_element(By.CLASS_NAME, chapter_class)
 
     texts: List[WebElement] = chapter.find_element(
