@@ -143,7 +143,7 @@ But before that monster’s abnormally big mouth was able to rip off Akira’s a
 
 But then in the brief moment after that, as the monster was still alive, it clamped down hard on Akira’s arms. Fortunately, Akira was able to survive without losing his arm or his life. ^d42db0
 
-After surviving his third time, Akira decided to be a hunter. Although he pretty much understood just how dangerous it was to be a hunter, he was feeling hopeful and brimming with confidence after killing a monster all by himself.
+After surviving his third time, Akira decided to be a hunter. Although he pretty much understood just how dangerous it was to be a hunter, he was feeling hopeful and brimming with confidence after killing a monster all by himself. ^44fb42
 
 There are people who are working as hunters in this world, these people would venture the monster-filled wasteland outside of the city seeking for money and fame despite knowing that it’s such a dangerous place, the wasteland is so dangerous that it’s actually safer for them to stay in the slums where cheap guns circulating freely and the public order there is just the worst. But on the other side, the wasteland is a place filled with riches and power since you might find the ruins and the relics of the old world there.
 
