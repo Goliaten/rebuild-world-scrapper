@@ -5,6 +5,7 @@
 - Origin of monsters[^2] ==TO REWRITE==
 - Monsters can easily kill people with bullets or fangs.[^3]
 - Simple/not powerful gun isn't enough to kill monsters, unless shot from close range.[^4]
+- Monsters are de facto relics of the old world, which can be sold by hunters[^7]
 # Classification
 - Medium weak[^5] ==TO REWRITE==
 # Types
@@ -21,3 +22,5 @@
 [^5]: [[Chapter 1, Akira and Alpha#^877a5c]]
 
 [^6]: [[Chapter 1, Akira and Alpha#^ce4e4f]]
+
+[^7]: [[Chapter 1, Akira and Alpha#^b20766]]

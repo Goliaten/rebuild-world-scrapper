@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monsters/Monsters.md",
+                "file": "Social/Human Civilisation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monsters"
+              "title": "Human Civilisation"
             }
           },
           {
@@ -221,16 +221,16 @@
   "lastOpenFiles": [
     "Social/The Old World.md",
     "Social/Human Civilisation.md",
+    "locations/Corporate Cities.md",
+    "Monsters/Monsters.md",
     "Social/Social division.md",
     "Social/Hunters.md",
     "characters/Akira.md",
     "timeline/overview.md",
-    "Monsters/Monsters.md",
     "locations/Kugamayama City.md",
     "wn_chapters/Chapter 1, Akira and Alpha.md",
     "TODO.md",
     "locations/Kuzusuhara Street Ruins.md",
-    "locations/Corporate Cities.md",
     "Social/Old World Technology.md",
     "characters/Alpha.md",
     "locations/The Ruins of the Old World.md",
