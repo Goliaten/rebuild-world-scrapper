@@ -189,7 +189,7 @@ Alpha was giggling as she was giving Akira her explanations. For a small kid fro
 
 “…Alright, sure… I understand. So then, Alpha, what are you doing in this place?”
 
-“I’m looking for someone who can see and hear me. I actually have a request, you see. But I can’t ask them to do anything if they can’t even hear me in the first place, you know. And it would be the best if that person is a hunter, after all, there’s a good chance that they would listen to my request. But well, as you can see, it didn’t go well at all.”
+“I’m looking for someone who can see and hear me. I actually have a request, you see. But I can’t ask them to do anything if they can’t even hear me in the first place, you know. And it would be the best if that person is a hunter, after all, there’s a good chance that they would listen to my request. But well, as you can see, it didn’t go well at all.” ^386ebb
 
 Alpha laughed bitterly for a bit.
 
@@ -205,7 +205,7 @@ Akira could see clearly that Alpha was a bit surprised.
 
 “One year?”
 
-“…One day, I just became a hunter today…”
+“…One day, I just became a hunter today…” ^34fa6c
 
 Both Akira and Alpha were exchanging an awkward look. There’s an awkward silence between them.
 

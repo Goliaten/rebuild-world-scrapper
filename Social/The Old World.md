@@ -13,8 +13,9 @@
 - Weapons[^3]
 - Augmented reality
 	- Data is sent from and to AR directly to/from human's brain. Brain sending command to its body effectively transmits information to AR. AR beings don't listen to man's voice, it reads the data sent from that persons brain to it's vocal cords.[^6]
+	- Due to this, AR beings know, that someone sees something or not. This allowed Alpha to know that Akira sees her[^6]
 	- Not all modern humans can interact with AR[^6]
-	- B
+	- 
 
 [^1]: [[Chapter 1, Akira and Alpha#^b20833]]
 
