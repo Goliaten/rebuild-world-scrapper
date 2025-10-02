@@ -10,6 +10,13 @@
 - [x] - akira's searching for relics in kuzusuhara (ch.1)
 - Akira encounters Alpha, establishes contact and escapes monsters (ch.1)
 
-[^1]: [[Chapter 1, Akira and Alpha#^b20833]]
-
-[^2]: [[Chapter 1, Akira and Alpha#^94d0bf]]
+```mermaid
+timeline
+	title Rebuild World Diagram
+	Long time ago: Destruction of old world civilization (ch1)
+	: Due to artificial rains, plants regrew, and humanity repopulated the surface (ch1)
+	??: akira is born
+	: monster attack Kugamayama city, akira survives
+	: monster attack Kugamayama city again, akira survives
+	T-1 day: monsters 
+```

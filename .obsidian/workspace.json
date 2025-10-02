@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e8c8ef0f4771a31e",
@@ -219,6 +220,8 @@
   },
   "active": "b7a3763abd407384",
   "lastOpenFiles": [
+    "wn_chapters/Chapter 1, Akira and Alpha.md",
+    "timeline/overview.md",
     "characters/Akira.md",
     "Social/Human Civilisation.md",
     "Social/The Old World.md",
@@ -226,9 +229,7 @@
     "Monsters/Monsters.md",
     "Social/Social division.md",
     "Social/Hunters.md",
-    "timeline/overview.md",
     "locations/Kugamayama City.md",
-    "wn_chapters/Chapter 1, Akira and Alpha.md",
     "TODO.md",
     "locations/Kuzusuhara Street Ruins.md",
     "Social/Old World Technology.md",
