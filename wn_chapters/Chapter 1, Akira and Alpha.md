@@ -247,7 +247,7 @@ And so, Alpha who was always giggling during their conversation suddenly changed
 
 “If you don’t want to die, then go into the building on your right in 10 seconds.”
 
-“What do you mean…?”
+“What do you mean…?” ^8adab1
 
 Akira was about to ask her what she meant. But from that dead serious look on her face indicating she would not be take any question, he understood just how dangerous the situation that he was in and stopped his question middle way. If that wasn’t a lie, then he would definitely get killed if he stayed there. Once he realized that, he sprinted as fast as he could to the building on his right.
 

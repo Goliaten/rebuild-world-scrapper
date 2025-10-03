@@ -1,3 +1,8 @@
+---
+tags:
+  - character
+---
+
 - Akira's look before alpha[^2] ==TO REWRITE==
 - Lives in Kugamayama City[^3] in the slums[^1].
 - Lacks proper equipment, in result he's vulnerable in ruins. His gun lacks power to defeat monsters.[^4]

@@ -1,3 +1,8 @@
+---
+tags:
+  - character
+---
+
 # General Remarks
 [[Chapter 1, Akira and Alpha#^3562ed|Alpha floats]]
 [[Chapter 1, Akira and Alpha#^ce4fd4|Even for old world connectors, Alpha can be unnoticable.]]
