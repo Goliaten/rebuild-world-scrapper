@@ -1,7 +1,7 @@
 # General Remarks
 - Humanity has spent many years gathering old world relics and reconstructing human civilization[^2]
 - Certain relics are so valuable, that cities can be bought with them[^4]
-- Monsters are not fully 
+- Monsters are not fully undestood even by those that specialise in monsters[^6]
 # Far eastern part
 - There are countless [[Corporate Cities]].[^1]
 # Hunters
@@ -18,3 +18,5 @@
 [^4]: [[Chapter 1, Akira and Alpha#^0a897d]]
 
 [^5]: [[Chapter 1, Akira and Alpha#^9e78cb]]
+
+[^6]: [[Chapter 1, Akira and Alpha#^3b99bf]]
