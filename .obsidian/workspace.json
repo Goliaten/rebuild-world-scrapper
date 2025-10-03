@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Chapter 2, Alphas support"
             }
+          },
+          {
+            "id": "aac31dba1aef918d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edde1736252e01c5",
+  "active": "aac31dba1aef918d",
   "lastOpenFiles": [
     "wn_chapters/Chapter 2, Alphas support.md",
     "wn_chapters/Chapter 1, Akira and Alpha.md",

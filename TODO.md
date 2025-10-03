@@ -1,2 +1,1 @@
-- [x] Ukończ przetwarzanie rozdziału 1
-	- Skończono na [[Chapter 1, Akira and Alpha#^8adab1]]
+- [ ] Przetwórz rozdział 2 [[]]
