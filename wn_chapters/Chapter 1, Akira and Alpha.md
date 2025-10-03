@@ -291,7 +291,7 @@ There’s no harm in hearing that information but Akira wasn’t actually asking
 
 And so Alpha gave a simple answer to Akira’s simple question.
 
-“Their living tissues have become home for the nanomachines inside them. Then these nanomachines use the metal ores that they ingested to grow guns on their backs. I’m pretty sure that they’ve deviated so much from their original design. Well, I guess they’ve evolved independently from their original design in order to adapt to the current condition.”
+“Their living tissues have become home for the nanomachines inside them. Then these nanomachines use the metal ores that they ingested to grow guns on their backs. I’m pretty sure that they’ve deviated so much from their original design. Well, I guess they’ve evolved independently from their original design in order to adapt to the current condition.” ^064b40
 
 It is such an important piece of information that would even surprise the people who specialize in these Monsters. But someone like Akira, who didn’t know just how valuable that information is, could only understand was that there was a particular reason that these living organism could grow weapons on their bodies.
 

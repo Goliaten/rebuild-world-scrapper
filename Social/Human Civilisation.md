@@ -1,6 +1,7 @@
 # General Remarks
 - Humanity has spent many years gathering old world relics and reconstructing human civilization[^2]
 - Certain relics are so valuable, that cities can be bought with them[^4]
+- Monsters are not fully 
 # Far eastern part
 - There are countless [[Corporate Cities]].[^1]
 # Hunters
