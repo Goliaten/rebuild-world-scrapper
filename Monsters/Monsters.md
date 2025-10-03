@@ -10,6 +10,7 @@
 - Medium weak[^5] ==TO REWRITE==
 # Types
 - Small dog monster[^6]
+- [[Weapon dogs]]
 
 [^1]: [[Chapter 1, Akira and Alpha#^b28801]]
 

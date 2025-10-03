@@ -275,7 +275,7 @@ Alpha then pointed her finger below. Akira was baffled, he though she’s tellin
 
 Akira slowly and carefully peeked down as ordered by Alpha. His face immediately turned pale, what he saw down there were Monsters who attacked him just now, they roaming around as if they’re looking for something.
 
-The length of those Monsters was about 2 meters and they looked like dogs. If it was only that, they would look like just big dogs with strengthened muscles, but no, some of those Monsters had small cannons on their back, some of them had rockets, and some of them had small missile launcher. All of these Monsters equipped with destructive weapons were roaming outside looking to eradicate any invaders.
+The length of those Monsters was about 2 meters and they looked like dogs. If it was only that, they would look like just big dogs with strengthened muscles, but no, some of those Monsters had small cannons on their back, some of them had rockets, and some of them had small missile launcher. All of these Monsters equipped with destructive weapons were roaming outside looking to eradicate any invaders. ^356b77
 
 It would make him a lot of money if he could kill those Monsters and bring some of them back home. But Akira didn’t have the power or method to do that. That young hunter who just about to get killed by those Monsters looked frustrated as he was looking at the potential money that was out of his reach.
 
@@ -283,7 +283,7 @@ It would make him a lot of money if he could kill those Monsters and bring some 
 
 Then Alpha gave him a detailed explanation about the Monsters.
 
-“They are the weapon dogs, the man-made living organism created in order to protect the city. Although guns and other weapons are growing on their body, they are not machines, they are living biological organism. I’m sure that these ones were programmed to watch over this area. They might evolve differently from one and another, but the weapons behind their back will get stronger as they grow up. Maybe that weapon dog with missile pods growing behind it is the leader of the pack.”
+“They are the weapon dogs, the man-made living organism created in order to protect the city. Although guns and other weapons are growing on their body, they are not machines, they are living biological organism. I’m sure that these ones were programmed to watch over this area. They might evolve differently from one and another, but the weapons behind their back will get stronger as they grow up. Maybe that weapon dog with missile pods growing behind it is the leader of the pack.” ^be8c25
 
 There’s no harm in hearing that information but Akira wasn’t actually asking for an explanation about those Monsters. The question that he muttered was only a form of his frustration because of his bad luck getting attacked by those Monsters. But then, a lot of questions came into his mind after hearing that explanation.
 
