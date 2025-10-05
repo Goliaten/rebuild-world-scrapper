@@ -22,19 +22,8 @@
               "icon": "lucide-file",
               "title": "Chapter 2, Alphas support"
             }
-          },
-          {
-            "id": "aac31dba1aef918d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aac31dba1aef918d",
+  "active": "edde1736252e01c5",
   "lastOpenFiles": [
     "TODO.md",
     "wn_chapters/Chapter 2, Alphas support.md",
