@@ -1,1 +1,1 @@
-- [ ] Przetwórz rozdział 2 [[]]
+- [ ] Przetwórz rozdział 2 [[Chapter 2, Alphas support]]

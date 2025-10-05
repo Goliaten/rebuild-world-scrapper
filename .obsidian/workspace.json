@@ -27,14 +27,10 @@
             "id": "aac31dba1aef918d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -200,9 +196,9 @@
   },
   "active": "aac31dba1aef918d",
   "lastOpenFiles": [
+    "TODO.md",
     "wn_chapters/Chapter 2, Alphas support.md",
     "wn_chapters/Chapter 1, Akira and Alpha.md",
-    "TODO.md",
     "Monsters/Monsters.md",
     "Social/Human Civilisation.md",
     "Social/The Old World.md",
