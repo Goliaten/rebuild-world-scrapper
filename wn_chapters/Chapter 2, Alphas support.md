@@ -156,7 +156,7 @@ Akira stopped running and took a rest. But then he looked back to confirm his sa
 
 Akira was petrified. He saw a big monster not too far from where he was standing. Although it’s all alone, it’s more dangerous than the group of monsters that attacked him.
 
-At a glance, that monster looked like the weapon dog that he just encountered from before with a big cannon growing on its back. But unlike them, it had such a distorted body as if it’s trying to break the norm with its 8 asymmetric legs.
+At a glance, that monster looked like the weapon dog that he just encountered from before with a big cannon growing on its back. But unlike them, it had such a distorted body as if it’s trying to break the norm with its 8 asymmetric legs. ^af02a8
 
 What’s so weird about its dog-like head was how it had 2 eyes on its right side and 1 eye on its left side, it’s even dubious whether it could see clearly or not with those 3 asymmetric sized eyes. But, there’s no doubt at all that those 3 eyes were locked on Akira.
 

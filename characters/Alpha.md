@@ -13,7 +13,7 @@ tags:
 - Alpha is willing to abandon the person with old world access if he doesn't listen to her and believe her fully.[^7]
 # Looks
 ## Alpha's look before meeting akira
-[[Chapter 1, Akira and Alpha#^fd0705]]
+[[Chapter 1, Akira and Alpha#^fd0705]] ==to rewrite==
 [[Chapter 1, Akira and Alpha#^002603]]
 # Alpha's Request
 - Explore dangerous ruins

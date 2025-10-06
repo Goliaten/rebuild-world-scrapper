@@ -10,10 +10,16 @@
 - Replenishing black powder takes time[^4]
 - They become easier to kill without their weapons active. This doesn't mean they are easy to kill though[^4]
 # Looks
+## Normal
 - looks like dog
 - 2 meters in length[^1]
 - strengthened muscles[^1]
 - small canons or rockets or small missile launchers on back[^1]
+## Mutated 1
+- big cannon as a weapon on its back[^5]
+- distorted body[^5]
+- 8 asymmetric legs[^5]
+- 2 eyes on right side, 
 # Behaviour
 - (?) pack behaviour with a pack leader[^2]
 - their behaviour differs from one to another. Ones chase their target until the eond, others stay in one area. Once target is lost some keep searching for it, others return to their base.[^4]
@@ -27,3 +33,5 @@
 [^3]: [[Chapter 1, Akira and Alpha#^064b40]]
 
 [^4]: [[Chapter 2, Alphas support#^26c1ac]]
+
+[^5]: [[Chapter 2, Alphas support#^af02a8]]

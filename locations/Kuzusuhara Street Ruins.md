@@ -7,8 +7,8 @@ tags:
 - Kuzusuhara Ruins are closest ruins to Kugamayama City.[^2]
 - Kuzusuhara Ruins are the largest ruins in it's economic sphere.[^2]
 # Visuals
-- Looks of outskirts of Kuzusuhara[^3]
-- Difference between inner and outer state of Kuzusuhara Ruins[^4]
+- Looks of outskirts of Kuzusuhara[^3] ==To rewrite==
+- Difference between inner and outer state of Kuzusuhara Ruins[^4] ==to rewrite==
 
 [^1]: [[Chapter 1, Akira and Alpha#^11069b]]
 
