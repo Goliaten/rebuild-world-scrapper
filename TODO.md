@@ -1,1 +1,1 @@
-- [ ] Przetwórz rozdział 2 [[Chapter 2, Alphas support]]
+- [ ] Przetwórz rozdział 2 [[Chapter 2, Alphas support#^d748fc]]

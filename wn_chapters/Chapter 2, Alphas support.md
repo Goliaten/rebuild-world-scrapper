@@ -158,9 +158,9 @@ Akira was petrified. He saw a big monster not too far from where he was standing
 
 At a glance, that monster looked like the weapon dog that he just encountered from before with a big cannon growing on its back. But unlike them, it had such a distorted body as if it’s trying to break the norm with its 8 asymmetric legs. ^af02a8
 
-What’s so weird about its dog-like head was how it had 2 eyes on its right side and 1 eye on its left side, it’s even dubious whether it could see clearly or not with those 3 asymmetric sized eyes. But, there’s no doubt at all that those 3 eyes were locked on Akira.
+What’s so weird about its dog-like head was how it had 2 eyes on its right side and 1 eye on its left side, it’s even dubious whether it could see clearly or not with those 3 asymmetric sized eyes. But, there’s no doubt at all that those 3 eyes were locked on Akira. ^993914
 
-The monster opened its mouth and let out a loud roar. At the same time, the cannon on its back raised and shot a round. The explosive round landed not too far from Akira as it exploded and sent rubble flying. But thanks to all the rubble that scattered around, the damage that it caused around the area was reduced. In the end, Akira just felt a weak wind blowing on its direction and ended up just fine from the explosion.
+The monster opened its mouth and let out a loud roar. At the same time, the cannon on its back raised and shot a round. The explosive round landed not too far from Akira as it exploded and sent rubble flying. But thanks to all the rubble that scattered around, the damage that it caused around the area was reduced. In the end, Akira just felt a weak wind blowing on its direction and ended up just fine from the explosion. ^51b340
 
 The monster once again raised up its cannon as if it’s going to shoot another round. But nothing happened, it had ran out of ammo. Letting out another loud roar, its eyes once again, locked into Akira and started running toward him.
 
@@ -168,7 +168,7 @@ Since the moment he looked back, Akira stood still there surprised of what he sa
 
 “Run!!”
 
-Although he couldn’t see Alpha at all, he could clearly hear her voice shouted at him. He immediately snapped back into reality thanks to it and started running as fast as he could. But the monster had closed most of the distance between them, he would have standing further away from the monster had he kept running without looking back at all. It’s as Alpha warned him, his chance of getting killed skyrocketed every time he doesn’t do as Alpha instructed.
+Although he couldn’t see Alpha at all, he could clearly hear her voice shouted at him. He immediately snapped back into reality thanks to it and started running as fast as he could. But the monster had closed most of the distance between them, he would have standing further away from the monster had he kept running without looking back at all. It’s as Alpha warned him, his chance of getting killed skyrocketed every time he doesn’t do as Alpha instructed. ^d748fc
 
 His whole body was screaming in pain, but Akira ignored it as he kept running. He could hear the stomping sound behind him getting louder and louder. But thanks to its malformed body, its running speed was relatively slow, thus Akira could keep his distance from it. But still, the earth rumbled and let out a thunderous sound every time its huge legs kicked the ground, it reminded Akira just how scary its huge body and legs.
 

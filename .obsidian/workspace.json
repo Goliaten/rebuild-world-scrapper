@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapon dogs.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapon dogs"
+              "title": "TODO"
             }
           },
           {
@@ -219,8 +219,8 @@
   },
   "active": "d22993a8e365ffe4",
   "lastOpenFiles": [
-    "Monsters/Monsters.md",
     "Weapon dogs.md",
+    "Monsters/Monsters.md",
     "characters/Alpha.md",
     "characters/Akira.md",
     "locations/Kuzusuhara Street Ruins.md",

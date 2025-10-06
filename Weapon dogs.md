@@ -9,6 +9,7 @@
 - They have a limited capacity for black powder at a time[^4]
 - Replenishing black powder takes time[^4]
 - They become easier to kill without their weapons active. This doesn't mean they are easy to kill though[^4]
+- They can roar[^7]
 # Looks
 ## Normal
 - looks like dog
@@ -16,10 +17,10 @@
 - strengthened muscles[^1]
 - small canons or rockets or small missile launchers on back[^1]
 ## Mutated 1
-- big cannon as a weapon on its back[^5]
+- big cannon as a weapon on its back[^5] which shoots explosive rounds[^8]
 - distorted body[^5]
 - 8 asymmetric legs[^5]
-- 2 eyes on right side, 
+- 2 eyes on right side, 1 eye on left side of its head[^6]
 # Behaviour
 - (?) pack behaviour with a pack leader[^2]
 - their behaviour differs from one to another. Ones chase their target until the eond, others stay in one area. Once target is lost some keep searching for it, others return to their base.[^4]
@@ -35,3 +36,9 @@
 [^4]: [[Chapter 2, Alphas support#^26c1ac]]
 
 [^5]: [[Chapter 2, Alphas support#^af02a8]]
+
+[^6]: [[Chapter 2, Alphas support#^993914]]
+
+[^7]: [[Chapter 2, Alphas support#^51b340]]
+
+[^8]: [[Chapter 2, Alphas support#^51b340]]
