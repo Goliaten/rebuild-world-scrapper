@@ -274,7 +274,7 @@ The staff in the hunter office gave him that piece of paper when Akira registere
 
 As he was telling Alpha his story from around that time, Akira remembered all the bad things that happened to him and made a mixed expression.
 
-Akira went to a hunter office located in the lower district of Kugamayama city.
+Akira went to a hunter office located in the lower district of Kugamayama city. ^da41f3
 
 It’s located a bit far away from the slum city. From the outside, it looked just like a half destroyed bar as half of the letters on its signboard were already beyond recognition. If it’s not because of the hunter office symbol on its signboard, no one would know if that building is a hunter office.
 

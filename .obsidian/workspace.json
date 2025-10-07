@@ -71,8 +71,7 @@
               "title": "Akira"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,12 +231,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2bd8f3912c71e02",
+  "active": "d22993a8e365ffe4",
   "lastOpenFiles": [
+    "timeline/timeline.md",
     "Weapon dogs.md",
     "characters/Akira.md",
     "Social/Human Civilisation.md",
-    "timeline/timeline.md",
     "wn_chapters/Chapter 2, Alphas support.md",
     "TODO.md",
     "Monsters/Monsters.md",
