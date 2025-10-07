@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "wn_chapters/Chapter 2, Alphas support.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
@@ -57,7 +57,8 @@
               "title": "Weapon dogs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,19 +218,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d22993a8e365ffe4",
+  "active": "f2bd8f3912c71e02",
   "lastOpenFiles": [
+    "timeline/timeline.md",
     "Weapon dogs.md",
+    "TODO.md",
+    "wn_chapters/Chapter 2, Alphas support.md",
     "Monsters/Monsters.md",
     "characters/Alpha.md",
     "characters/Akira.md",
     "locations/Kuzusuhara Street Ruins.md",
-    "wn_chapters/Chapter 2, Alphas support.md",
-    "TODO.md",
     "wn_chapters/Chapter 1, Akira and Alpha.md",
     "Social/Human Civilisation.md",
     "Social/The Old World.md",
-    "timeline/timeline.md",
     "alp.md",
     "locations/Corporate Cities.md",
     "Untitled.md",

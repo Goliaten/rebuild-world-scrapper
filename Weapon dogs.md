@@ -10,6 +10,7 @@
 - Replenishing black powder takes time[^4]
 - They become easier to kill without their weapons active. This doesn't mean they are easy to kill though[^4]
 - They can roar[^7]
+- They can see Alpha - they can see old world entities[^9]
 # Looks
 ## Normal
 - looks like dog
@@ -21,6 +22,7 @@
 - distorted body[^5]
 - 8 asymmetric legs[^5]
 - 2 eyes on right side, 1 eye on left side of its head[^6]
+- due to it's legs, it's relatively slow[^10]
 # Behaviour
 - (?) pack behaviour with a pack leader[^2]
 - their behaviour differs from one to another. Ones chase their target until the eond, others stay in one area. Once target is lost some keep searching for it, others return to their base.[^4]
@@ -42,3 +44,7 @@
 [^7]: [[Chapter 2, Alphas support#^51b340]]
 
 [^8]: [[Chapter 2, Alphas support#^51b340]]
+
+[^9]: [[Chapter 2, Alphas support#^d74de0]]
+
+[^10]: [[Chapter 2, Alphas support^thanks to i]]

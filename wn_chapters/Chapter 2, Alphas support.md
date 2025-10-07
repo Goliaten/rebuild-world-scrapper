@@ -224,7 +224,7 @@ Alpha kept looking at Akira as he ran off, she only gave a playful smile and sud
 
 Akira who kept running as fast as he could from the attacking monster didn’t realize it, but there were a lot of things happening behind him.
 
-Just like Akira, the monsters could also see Alpha, so they were  trying to eat Alpha who was behind Akira.
+Just like Akira, the monsters could also see Alpha, so they were  trying to eat Alpha who was behind Akira. ^d74de0
 
 While Alpha was actually using herself as a decoy to lead the monsters around, then she would let herself ‘get eaten’ after adjusting their positions.
 

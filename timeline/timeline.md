@@ -9,3 +9,4 @@
 # T-0
 - akira's searching for relics in kuzusuhara (ch.1)
 - Akira encounters Alpha, establishes contact and escapes monsters (ch.1)
+- Akira returns to Kugamayama city with alpha, on the way runs from monsters and kills one mutated weapon dog
