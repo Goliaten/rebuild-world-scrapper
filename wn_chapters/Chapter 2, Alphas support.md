@@ -170,7 +170,7 @@ Since the moment he looked back, Akira stood still there surprised of what he sa
 
 Although he couldn’t see Alpha at all, he could clearly hear her voice shouted at him. He immediately snapped back into reality thanks to it and started running as fast as he could. But the monster had closed most of the distance between them, he would have standing further away from the monster had he kept running without looking back at all. It’s as Alpha warned him, his chance of getting killed skyrocketed every time he doesn’t do as Alpha instructed. ^d748fc
 
-His whole body was screaming in pain, but Akira ignored it as he kept running. He could hear the stomping sound behind him getting louder and louder. But thanks to its malformed body, its running speed was relatively slow, thus Akira could keep his distance from it. But still, the earth rumbled and let out a thunderous sound every time its huge legs kicked the ground, it reminded Akira just how scary its huge body and legs.
+His whole body was screaming in pain, but Akira ignored it as he kept running. He could hear the stomping sound behind him getting louder and louder. But thanks to its malformed body, its running speed was relatively slow, thus Akira could keep his distance from it. But still, the earth rumbled and let out a thunderous sound every time its huge legs kicked the ground, it reminded Akira just how scary its huge body and legs. ^433ef3
 
 Every time Akira felt the vibration and heard the sound of the monster’s steps echoed from the distance, it shaved off Akira’s sanity. There’s no mistaking it, he would be turned into minced meat if one of those huge legs fell down on him.
 
@@ -242,7 +242,7 @@ Alpha suddenly appeared and welcomed Akira as if she got there first before him.
 
 “Ah, sure, go on”
 
-“For the equipment, you’ll need to either buy them or scavenge them from the ruins. But the old world equipment from that you can find in the ruins are much more powerful than the commonly sold equipment. So I’m thinking that you can buy your first equipment, and then use them to hunt for better old world equipment from the ruins. As for your ability… There’s no other way but to train and experience real battle. But there’s no need to worry, I can give you the best training possible with my support.”
+“For the equipment, you’ll need to either buy them or scavenge them from the ruins. But the old world equipment from that you can find in the ruins are much more powerful than the commonly sold equipment. So I’m thinking that you can buy your first equipment, and then use them to hunt for better old world equipment from the ruins. As for your ability… There’s no other way but to train and experience real battle. But there’s no need to worry, I can give you the best training possible with my support.” ^3b6b53
 
 Akira couldn’t imagine what kind of training it could be. But hearing from how confident Alpha sounded, he at least knew that it must be some kind of super effective training.
 
@@ -256,7 +256,7 @@ Akira winced and gave a nod, he could get a feel for just how harsh this special
 
 Alpha looked satisfied as she gave him a nod back.
 
-“Our main aim for now is for you to be a good hunter so that you can get enough money to get high quality equipment. But first, you have to go to the hunter office, you need to register yourself as a formal hunter and graduate from being a self proclaimed hunter… Just in case, let me ask you about one thing, have you registered yourself as a formal hunter yet?”
+“Our main aim for now is for you to be a good hunter so that you can get enough money to get high quality equipment. But first, you have to go to the hunter office, you need to register yourself as a formal hunter and graduate from being a self proclaimed hunter… Just in case, let me ask you about one thing, have you registered yourself as a formal hunter yet?” ^323527
 
 Akira took out his hunter certificate from his chest. It looked like just a cheap piece of paper with the written prove saying that he’s a certified third rank worker from the eastern region corporate government. It also has his number ID as a hunter and his name written on it.
 

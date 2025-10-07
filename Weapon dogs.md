@@ -27,6 +27,7 @@
 - (?) pack behaviour with a pack leader[^2]
 - their behaviour differs from one to another. Ones chase their target until the eond, others stay in one area. Once target is lost some keep searching for it, others return to their base.[^4]
 - Without black powder to supply their weapons, they resort to biting and eating their prey[^4]
+- They are confused, when they didn't feel the thing they bit/ate, stopping and thinking for a bit.
 
 
 [^1]: [[Chapter 1, Akira and Alpha#^356b77]]
@@ -47,4 +48,4 @@
 
 [^9]: [[Chapter 2, Alphas support#^d74de0]]
 
-[^10]: [[Chapter 2, Alphas support^thanks to i]]
+[^10]: [[Chapter 2, Alphas support#^433ef3]]
