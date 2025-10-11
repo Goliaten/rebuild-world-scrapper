@@ -232,7 +232,7 @@ The monsters couldn’t feel anything at all although they clearly bit her. Thus
 
 Then, Alpha would tell Akira to use that chance to shoot at these monsters. And just like when Akira shot the eye and killed the monster from before, Alpha manipulated the monsters’ position and condition by using herself as a decoy so that Akira could easily destroy them.
 
-That group of monsters appeared the moment Akira accepted Alpha’s request, but Akira who was running as fast as he could to the outside of the ruin didn’t notice that at all.
+That group of monsters appeared the moment Akira accepted Alpha’s request, but Akira who was running as fast as he could to the outside of the ruin didn’t notice that at all. ^4acc52
 
 Akira was somehow able to get outside of the Kuzusuhara city ruin. That place was still a bit dangerous, but it’s way safer there compared to the inside of the ruin.
 

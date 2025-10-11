@@ -1,1 +1,5 @@
-- [ ] Przetwórz rozdział 2 [[Chapter 2, Alphas support#^da41f3]]
+- [ ] Przetwórz rozdział 3
+- [ ] Napisz ponownie informacje w:
+	- [ ] [[Akira]]
+	- [ ] [[Alpha]]
+	- [ ] [[Monsters]]
