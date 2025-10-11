@@ -278,7 +278,7 @@ Akira went to a hunter office located in the lower district of Kugamayama city. 
 
 It’s located a bit far away from the slum city. From the outside, it looked just like a half destroyed bar as half of the letters on its signboard were already beyond recognition. If it’s not because of the hunter office symbol on its signboard, no one would know if that building is a hunter office.
 
-The staff who served Akira was a drunk young man that didn’t look like he wanted to do any work. Being a hunter was quite a popular job. Even in the eastern region and there are a lot of great hunters in that area, but that man didn’t give that feeling at all. Although it’s a popular job, many people hate to be posted near the slum city. That man must be someone who got demoted and transferred into this post that was befitting of his motivation and ability.
+The staff who served Akira was a drunk young man that didn’t look like he wanted to do any work. Being a hunter was quite a popular job. Even in the eastern region and there are a lot of great hunters in that area, but that man didn’t give that feeling at all. Although it’s a popular job, many people hate to be posted near the slum city. That man must be someone who got demoted and transferred into this post that was befitting of his motivation and ability. ^b33221
 
 Akira nervously asked that man.
 

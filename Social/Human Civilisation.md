@@ -10,6 +10,8 @@
 - As long as they survive and are competent enough, they can constantly keep growing with better gear and technology[^5].
 - With Old World weapons, they can be more powerful than a city[^5]
 - Hunters register themselves as hunters in hunter offices[^8]
+- Hunter profession is quite popular[^9]
+
 
 [^1]: [[Chapter 1, Akira and Alpha#^81d7f8]]
 
@@ -26,3 +28,5 @@
 [^7]: [[Chapter 2, Alphas support#^3b6b53]]
 
 [^8]: [[Chapter 2, Alphas support#^323527]]
+
+[^9]: [[Chapter 2, Alphas support#^b33221]]
