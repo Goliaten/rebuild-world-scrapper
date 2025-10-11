@@ -7,6 +7,8 @@
 - Simple/not powerful gun isn't enough to kill monsters, unless shot from close range.[^4]
 - Monsters are de facto relics of the old world, which can be sold by hunters[^7]
 - Monsters can mutate away from their original looks[^8]
+- Mutations can happen when monster makes a mistake in executing its self remodeling[^9]
+- Monsters can have some kind of protocol, which allows them to remodel themselves[^9]
 # Classification
 - Medium weak[^5] ==TO REWRITE==
 # Types
@@ -28,3 +30,5 @@
 [^7]: [[Chapter 1, Akira and Alpha#^b20766]]
 
 [^8]: [[Chapter 2, Alphas support#^af02a8]]
+
+[^9]: [[Chapter 2, Alphas support#^57ff69]]

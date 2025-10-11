@@ -334,7 +334,7 @@ Akira asked a simple question to lighten the mood there.
 
 “…Really? that one doesn’t look like them at all though, so that monster was also from the same type as them? “
 
-“Presumably, that one made a mistake in executing its self remodeling. That’s why you’re able to easily defeat it”
+“Presumably, that one made a mistake in executing its self remodeling. That’s why you’re able to easily defeat it” ^57ff69
 
 “Was that appearance only for show?”
 

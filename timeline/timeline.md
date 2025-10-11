@@ -10,5 +10,5 @@
 # T-0
 - [[Akira]]'s searching for relics in [[Kuzusuhara Street Ruins]] (ch.1)
 - [[Akira]] encounters [[Alpha]], establishes contact and escapes monsters (ch.1)
-- [[Akira]] runs from monsters and kills one [[Monsters|mutated weapon dog, and a couple other regular weapon dogs with [[Alpha]]'s help (ch.2)
+- [[Akira]] runs from monsters and kills one [[Weapon dogs#Mutated 1|mutated weapon dog]], and a couple other [[Weapon dogs#Normal|regular weapon dogs]] with [[Alpha]]'s help (ch.2)
 - [[Akira]] returns to [[Kugamayama City]] with [[Alpha]](ch.2)
