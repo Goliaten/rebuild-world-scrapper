@@ -312,7 +312,7 @@ Akira kept staring at his certificate after he finished explaining how did he ge
 
 Alpha smiled as if she was trying to cheer up Akira.
 
-“We’ll start your training with reading and writing, after all, collecting information is a very important thing.  But don’t worry, you’ll be able to read and write in no time with my first class level support”
+“We’ll start your training with reading and writing, after all, collecting information is a very important thing.  But don’t worry, you’ll be able to read and write in no time with my first class level support” ^93b3a6
 
 “I understand. I’ll be in your care… By the way, how do you know that I can’t read?”
 

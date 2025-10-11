@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social/Human Civilisation.md",
+                "file": "locations/Kugamayama City.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Human Civilisation"
+              "title": "Kugamayama City"
             }
           },
           {
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e8c8ef0f4771a31e",
@@ -208,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social/Human Civilisation.md",
+                "file": "timeline/timeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Human Civilisation"
+              "title": "Outline of timeline"
             }
           },
           {
@@ -246,15 +247,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72eb1b8085199307",
+  "active": "f2bd8f3912c71e02",
   "lastOpenFiles": [
-    "timeline/timeline.md",
-    "Social/Human Civilisation.md",
     "locations/Kugamayama City.md",
+    "characters/Akira.md",
     "wn_chapters/Chapter 2, Alphas support.md",
+    "Social/Human Civilisation.md",
+    "timeline/timeline.md",
     "TODO.md",
     "Weapon dogs.md",
-    "characters/Akira.md",
     "Monsters/Monsters.md",
     "characters/Alpha.md",
     "locations/Kuzusuhara Street Ruins.md",
