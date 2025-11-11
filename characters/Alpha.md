@@ -5,12 +5,14 @@ tags:
 
 # General Remarks
 - Alpha floats[^6]
+- Is invisible to those that can't connect to the old world.[^5][^9]
 - Even for old world connectors, Alpha can be unnoticable.[^5]
 - Alpha can appear and disappear at a whim.[^4]
 - Alpha is incorporeal[^3]
 - Alpha is a being of an "augmented reality"[^1]
 - Alpha was in [[Kuzusuhara Street Ruins]] to look for someone to fulfill her request[^2]
 - Alpha is willing to abandon the person with old world access if he doesn't listen to her and believe her fully.[^7]
+- So beautiful that she's out of place being in slums.[^8]
 # Looks
 ## Alpha's look before meeting akira
 [[Chapter 1, Akira and Alpha#^fd0705]] ==to rewrite==
@@ -31,3 +33,7 @@ tags:
 [^6]: [[Chapter 1, Akira and Alpha#^3562ed]]
 
 [^7]: [[Chapter 2, Alphas support#^0541ef]]
+
+[^8]: [[Chapter 3, The One Who is Responsible For Resolve#^f441a1]]
+
+[^9]: 

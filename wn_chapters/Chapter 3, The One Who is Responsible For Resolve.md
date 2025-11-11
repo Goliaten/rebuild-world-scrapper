@@ -2,9 +2,9 @@ Translator: Athena13
 
 Editor: Silavin
 
-The slum extends from the outskirts of Kugamayama City and it sits right next to the wasteland. It’s a place riddled with crime and bad economy, and not to mention the monsters roaming close to the edges, and the bandits prowling in the inside for weak people. It’s basically a garbage dump for the city. So, Akira decided to be a Hunter in order to get away from such a place.
+The slum extends from the outskirts of Kugamayama City and it sits right next to the wasteland. It’s a place riddled with crime and bad economy, and not to mention the monsters roaming close to the edges, and the bandits prowling in the inside for weak people. It’s basically a garbage dump for the city. So, Akira decided to be a Hunter in order to get away from such a place. ^a5fd1c
 
-As Akira walked through the familiar road of the slums with Alpha, it reminded him just how strange this Alpha was. A refined facial feature with shiny and lustrous hair. Silky skin paired with a developed body highlighted by her tight sexy dress. Alpha is a being that would tempt any member of the opposite sex. It was just out of place that such a being did not attract any attention.
+As Akira walked through the familiar road of the slums with Alpha, it reminded him just how strange this Alpha was. A refined facial feature with shiny and lustrous hair. Silky skin paired with a developed body highlighted by her tight sexy dress. Alpha is a being that would tempt any member of the opposite sex. It was just out of place that such a being did not attract any attention. ^f441a1
 
 Moreover, this so-called old world design should’ve been more than enough to attract people’s attention, it’s so great in quality that even an amateur could easily understand that it was an expensive dress. If someone that was knowledgeable in the technology of the old world saw it, he or she would immediately be able to recognize that it was made with the advanced technology of the old world. Although it is an ancient relic from the old world, anyone would be able to tell that such a dress was a treasure amongst the other relics. So in short, it is an object that would garner a lot of attention.
 

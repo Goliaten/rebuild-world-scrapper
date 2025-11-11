@@ -20,7 +20,9 @@ tags:
 - People from slums are lowest of the low. No education, no family, no posession, no augmentation, no skills[^6]
 ### General Remarks
 - right next to the dangerous wasteland[^5]
-- When monsters attack the city, people who live in slums and wasteland suffer the most[^7]
+- When monsters attack the city, people who live in slums and wasteland suffer the most[^7] 
+- Riddled with crime and bad economy[^8]
+- Bandits are prowling on weak within the slums[^8]
 
 [^1]: [[Chapter 1, Akira and Alpha#^70df6e]]
 
@@ -35,3 +37,5 @@ tags:
 [^6]: [[Chapter 1, Akira and Alpha#^502ba1]]
 
 [^7]: [[Chapter 1, Akira and Alpha#^9eacff]]
+
+[^8]: [[Chapter 3, The One Who is Responsible For Resolve#^a5fd1c]]
