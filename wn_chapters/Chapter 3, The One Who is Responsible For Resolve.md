@@ -90,7 +90,7 @@ In contrast to Akira, Alpha showed a graceful smile.
 
 Akira finally calmed down. He let out a sigh of relief as he lowered his gun and awkwardly apologized to Alpha.
 
-“…Sorry, I was just a bit surprised there. After all, most of the time, when you wake up with some unknown person by your side, there’s a good chance that the person is a robber.”
+“…Sorry, I was just a bit surprised there. After all, most of the time, when you wake up with some unknown person by your side, there’s a good chance that the person is a robber.” ^19da6a
 
 “It’s okay, don’t mention it.”
 

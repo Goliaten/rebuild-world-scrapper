@@ -14,6 +14,7 @@ tags:
 - Decided to become a hunter after surviving 3rd monster attack on city[^8]
 - Didn't know how to read or write before meeting alpha[^9]
 - Goes to sleep early. [^10] Knows how to hide himself to go to sleep. [^11]
+- Could have woken up to a robber stealing from him. [^12]
 
 
 
@@ -39,3 +40,5 @@ tags:
 [^10]: [[Chapter 3, The One Who is Responsible For Resolve#^9e6215]]
 
 [^11]: [[Chapter 3, The One Who is Responsible For Resolve#^136045]]
+
+[^12]: [[Chapter 3, The One Who is Responsible For Resolve#^19da6a]]
