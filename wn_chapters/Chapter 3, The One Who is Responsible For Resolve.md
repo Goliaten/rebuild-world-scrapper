@@ -100,9 +100,9 @@ Akira confirmed that he didn’t make Alpha mad, and so he felt relieved as he d
 
 Although he had quite a hardship yesterday, for Akira, this day was different from yesterday. Today is the day when his life together with Alpha starts.
 
-After that, Akira went to the food distribution area. It’s a place where food from the city is distributed for free. They do this twice per day as the morning distribution is done early in the morning. Although there was still some time left before it started, there were people already lining up for food. Akira added himself at the end of that long line of people.
+After that, Akira went to the food distribution area. It’s a place where food from the city is distributed for free. They do this twice per day as the morning distribution is done early in the morning. Although there was still some time left before it started, there were people already lining up for food. Akira added himself at the end of that long line of people. ^736c86
 
-Everyone should behave and line up nicely during the distribution. If someone were to cause trouble or cut in line, that person would not get any food. There were even times where the food distribution was stopped because of that, and of course, the person responsible for that was beaten to death.
+Everyone should behave and line up nicely during the distribution. If someone were to cause trouble or cut in line, that person would not get any food. There were even times where the food distribution was stopped because of that, and of course, the person responsible for that was beaten to death. ^f28fad
 
 This was also some kind of teaching method from the city. The city would be better if the people in the slum at least learned how to stay in line. It also reminded them that everyone in the slum will share the consequences if even a single one of them did not follow the rules set by the city. Thanks to that, and the sacrifices from the people who were beaten to death in the past, even the most ruthless people in the slum would line up orderly during the distribution.
 

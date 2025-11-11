@@ -18,6 +18,11 @@ tags:
 - Old World treasures are tempting for people from Slums[^3]
 - People that lose composure in slums will die.[^4]
 - People from slums are lowest of the low. No education, no family, no posession, no augmentation, no skills[^6]
+### Food distribution area
+- Food is distributed to slums population for free twice per day (once in the early morning, second time unknown). [^9]
+- A lot of people line up for food before it's begun distribution. [^9]
+- Order of queue was being strictly upheld. If broken a person that caused it wouldn't get food or the entire distribution could get shut down for the day. [^10]
+- It is a way to maintain civi
 ### General Remarks
 - right next to the dangerous wasteland[^5]
 - When monsters attack the city, people who live in slums and wasteland suffer the most[^7] 
@@ -39,3 +44,7 @@ tags:
 [^7]: [[Chapter 1, Akira and Alpha#^9eacff]]
 
 [^8]: [[Chapter 3, The One Who is Responsible For Resolve#^a5fd1c]]
+
+[^9]: [[Chapter 3, The One Who is Responsible For Resolve#^736c86]]
+
+[^10]: [[Chapter 3, The One Who is Responsible For Resolve#^f28fad]]

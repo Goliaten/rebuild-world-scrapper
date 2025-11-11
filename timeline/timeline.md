@@ -2,11 +2,11 @@
 - Destruction of old world civilization[^1]
 - Due to artificial rains, plants regrew, and humanity repopulated the surface[^2]
 # ??
--  akira is born
+- [[Akira]] is born
 - monster attack [[Kugamayama City]], [[Akira]] survives (ch.1)
 - monster attack [[Kugamayama City]] another time, [[Akira]] survives (ch.1)
 - monster attack [[Kugamayama City]], [[Akira]] survives, kills a monster, decides to become a hunter (ch.1) **This may have happened on T-1 day, or even on T-0. Uncertain. Source [[Chapter 1, Akira and Alpha#^34fa6c]]**
-- Akira registers himself as a hunter in the hunter office that's between lower district and slums of [[Kugamayama City]] (ch.2)
+- [[Akira]] registers himself as a hunter in the hunter office that's between lower district and slums of [[Kugamayama City]] (ch.2)
 # T-0
 - [[Akira]]'s searching for relics in [[Kuzusuhara Street Ruins]] (ch.1)
 - [[Akira]] encounters [[Alpha]], establishes contact and escapes monsters (ch.1)
