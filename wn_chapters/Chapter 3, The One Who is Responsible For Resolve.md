@@ -8,7 +8,7 @@ As Akira walked through the familiar road of the slums with Alpha, it reminded h
 
 Moreover, this so-called old world design should’ve been more than enough to attract people’s attention, it’s so great in quality that even an amateur could easily understand that it was an expensive dress. If someone that was knowledgeable in the technology of the old world saw it, he or she would immediately be able to recognize that it was made with the advanced technology of the old world. Although it is an ancient relic from the old world, anyone would be able to tell that such a dress was a treasure amongst the other relics. So in short, it is an object that would garner a lot of attention.
 
-Normally, it would have caused an uproar with all of those conspicuous things gathered in one place, but no one reacted to Alpha at all. Thus, the fact that he’s the only one who could see Alpha finally hit him.
+Normally, it would have caused an uproar with all of those conspicuous things gathered in one place, but no one reacted to Alpha at all. Thus, the fact that he’s the only one who could see Alpha finally hit him. ^32e489
 
 And so Akira whispered to Alpha.
 
@@ -38,9 +38,9 @@ Alpha looked a bit surprised.
 
 “Yeah. The night is coming soon, I have to prepare a place for me to sleep.”
 
-Akira went into one of the dark back alleys. He still had some time before the sun completely set but he had already crawled into a corner where he usually slept and leaned himself onto a makeshift wall made of scrap materials.
+Akira went into one of the dark back alleys. He still had some time before the sun completely set but he had already crawled into a corner where he usually slept and leaned himself onto a makeshift wall made of scrap materials. ^9e6215
 
-It would be really hard to find him there unless you already know that someone was there and intentionally looked around that place. Hiding himself like that was one of the things that he learned to stay alive in the slum as a kid.
+It would be really hard to find him there unless you already know that someone was there and intentionally looked around that place. Hiding himself like that was one of the things that he learned to stay alive in the slum as a kid. ^136045
 
 Basically, Akira would start his day when the sun rises and end it when the sun sets. After all, he would need lighting to be able to work at night. But of course it was not free, so for a little boy without money like Akira, it was simply something that was out of his reach. Moreover, the already dangerous slum will get more dangerous once the night falls and Akira didn’t have the strength to be able to stay active during the night.
 

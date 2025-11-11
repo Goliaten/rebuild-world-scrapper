@@ -12,7 +12,11 @@ tags:
 - Survived through 3 monster attacks on the city. Hid through the first 2 attacks, letting other people get eaten.[^6]
 - During 3rd monster attack on the city, he killed a small dog monster by a chance using a pistol, almost losing his arm off when it died.[^7]
 - Decided to become a hunter after surviving 3rd monster attack on city[^8]
-- Didn't know how to read or write[^9]
+- Didn't know how to read or write before meeting alpha[^9]
+- Goes to sleep early. [^10] Knows how to hide himself to go to sleep. [^11]
+
+
+
 
 [^1]: [[Chapter 1, Akira and Alpha#^502ba1]]
 
@@ -31,3 +35,7 @@ tags:
 [^8]: [[Chapter 1, Akira and Alpha#^44fb42]]
 
 [^9]: [[Chapter 2, Alphas support#^93b3a6]]
+
+[^10]: [[Chapter 3, The One Who is Responsible For Resolve#^9e6215]]
+
+[^11]: [[Chapter 3, The One Who is Responsible For Resolve#^136045]]

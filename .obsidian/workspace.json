@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Alpha.md",
+                "file": "timeline/timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alpha"
+              "title": "timeline"
             }
           }
         ]
@@ -206,12 +206,12 @@
   },
   "active": "61d51ed98964c4da",
   "lastOpenFiles": [
-    "locations/Kugamayama City.md",
+    "characters/Akira.md",
+    "characters/Alpha.md",
     "wn_chapters/Chapter 3, The One Who is Responsible For Resolve.md",
+    "locations/Kugamayama City.md",
     "TODO.md",
     "Monsters/Monsters.md",
-    "characters/Alpha.md",
-    "characters/Akira.md",
     "Theories.md",
     "wn_chapters/Chapter 2, Alphas support.md",
     "timeline/timeline.md",
