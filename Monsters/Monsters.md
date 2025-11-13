@@ -13,9 +13,8 @@
 # mechanical monsters
 - some may be simple autonomous weapons[^10]
 	- they're basically running on autopilot, exterminating any intruders they encounter[^10]
-- some mechs gather image data only from image capturing devices installed around them(but not on them)
-- in order to grasp outside situation they gather image of outside from image capturing devices spread around the area[^10]
-	- those that work like this can be tricked by modifying image of those cameras
+- some mechs gather image data only from image capturing devices installed around them(but not on them)[^10]
+- other mechs have in-built camera, which they use over outside cameras for decision making[^10]
 # Classification
 - Medium weak[^5] ==TO REWRITE==
 # Types

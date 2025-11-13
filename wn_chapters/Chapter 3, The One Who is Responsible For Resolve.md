@@ -272,7 +272,7 @@ Alpha showed a bit of disappointment as she returned her clothing on.
 
 “What do you mean?”
 
-“It’s a very effective method to look for someone who can see me. Only hunters would come to the Kuzusuhara City ruin and there are not that many of them, so it’s really not easy looking for someone who can recognize me, you know. That’s why I was naked to attract people’s attention. Moreover, after a lot of testing, it was the best choice so that people won’t run away or hide in caution when they see me for the first time.”
+“It’s a very effective method to look for someone who can see me. Only hunters would come to the Kuzusuhara City ruin and there are not that many of them, so it’s really not easy looking for someone who can recognize me, you know. That’s why I was naked to attract people’s attention. Moreover, after a lot of testing, it was the best choice so that people won’t run away or hide in caution when they see me for the first time.” ^28e95f
 
 “I immediately felt cautious of you there though.”
 
@@ -280,7 +280,7 @@ Alpha showed a bit of disappointment as she returned her clothing on.
 
 “Well, I would run, or at least, I wouldn’t approach that person.”
 
-“Right? That’s why, if I thought of an appearance that would let people to immediately know that I was unarmed and attracted their attention, followed by some kind of reaction that would not be fear, then being naked was the best choice. But well, I never thought that you would react like that and would be so cautious of me back then, I’m sorry.”
+“Right? That’s why, if I thought of an appearance that would let people to immediately know that I was unarmed and attracted their attention, followed by some kind of reaction that would not be fear, then being naked was the best choice. But well, I never thought that you would react like that and would be so cautious of me back then, I’m sorry.” ^f217c9
 
 Akira frowned a bit. He had indeed overreacted for a bit now that Alpha pointed that out. Although her explanation was convincing enough for him, Akira had some urge to retort back since she teased him by showing him her naked body.
 

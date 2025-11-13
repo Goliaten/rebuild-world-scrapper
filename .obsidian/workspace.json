@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monsters/Monsters.md",
+                "file": "characters/Alpha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monsters"
+              "title": "Alpha"
             }
           },
           {
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,7 +246,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "893ba09a8a6ec1b1",
+  "active": "4d57b0710a2f25ca",
   "lastOpenFiles": [
     "Monsters/Monsters.md",
     "Large mechanical monster 1.md",

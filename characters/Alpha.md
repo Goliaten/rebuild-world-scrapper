@@ -13,10 +13,12 @@ tags:
 - Alpha was in [[Kuzusuhara Street Ruins]] to look for someone to fulfill her request[^2]
 - Alpha is willing to abandon the person with old world access if he doesn't listen to her and believe her fully.[^7]
 - So beautiful that she's out of place being in slums.[^8]
+- She was naked before she met [[Akira]] to attract people's attention and make them less on alert[^10][^11]
+- Alpha'
 # Looks
 ## Alpha's look before meeting akira
 [[Chapter 1, Akira and Alpha#^fd0705]] ==to rewrite==
-[[Chapter 1, Akira and Alpha#^002603]]
+[[Chapter 1, Akira and Alpha#^002603]] ==to rewrite==
 # Alpha's Request
 - Explore dangerous ruins
 
@@ -37,3 +39,7 @@ tags:
 [^8]: [[Chapter 3, The One Who is Responsible For Resolve#^f441a1]]
 
 [^9]: [[Chapter 3, The One Who is Responsible For Resolve#^32e489]]
+
+[^10]: [[Chapter 3, The One Who is Responsible For Resolve#^28e95f]]
+
+[^11]: [[Chapter 3, The One Who is Responsible For Resolve#^f217c9]]

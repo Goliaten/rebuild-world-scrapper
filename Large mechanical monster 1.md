@@ -5,8 +5,9 @@
 - it is `huge`[^1]
 - has a cannon which fires with thundering sound[^1]
 - its cannon fires big explosive warheads, which can demolish a building, and leave a deafening sound from its huge explosion[^2] (although those buildings have already been rubble in this instance); and make surrounding buildings tremble from the impact for some time[^3]
+- it's a simple autonomous weapon that runs on autopilot, exterminating any intruders it encounters[^10]
 - in order to grasp outside situation they gather image of outside from image capturing devices spread around the area[^4]
-	- thanks to that they can be tricked to attack a fake
+	- thanks to that they can be tricked to attack a fake enemy
 
 [^1]: [[Chapter 3, The One Who is Responsible For Resolve#^306376]]
 
