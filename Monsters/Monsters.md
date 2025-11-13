@@ -6,6 +6,7 @@
 - Monsters can easily kill people with bullets or fangs.[^3]
 - Simple/not powerful gun isn't enough to kill monsters, unless shot from close range.[^4]
 - Monsters are de facto relics of the old world, which can be sold by hunters[^7]
+## biological monsters
 - Monsters can mutate away from their original looks[^8]
 - Mutations can happen when monster makes a mistake in executing its self remodeling[^9]
 - Monsters can have some kind of protocol, which allows them to remodel themselves[^9]

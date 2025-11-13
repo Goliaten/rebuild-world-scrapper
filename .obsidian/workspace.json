@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e8c8ef0f4771a31e",
@@ -247,14 +246,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "893ba09a8a6ec1b1",
+  "active": "4d57b0710a2f25ca",
   "lastOpenFiles": [
     "Large mechanical monster 1.md",
+    "wn_chapters/Chapter 3, The One Who is Responsible For Resolve.md",
     "Monsters/Monsters.md",
     "TODO.md",
     "locations/The Ruins of the Old World.md",
     "timeline/timeline.md",
-    "wn_chapters/Chapter 3, The One Who is Responsible For Resolve.md",
     "wn_chapters/Chapter 1, Akira and Alpha.md",
     "Social/Human Civilisation.md",
     "characters/Akira.md",

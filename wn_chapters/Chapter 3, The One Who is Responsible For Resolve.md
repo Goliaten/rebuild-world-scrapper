@@ -200,7 +200,7 @@ Looking at how Akira was petrified due to the shock, Alpha yelled at him.
 
 “Come back quickly!! You’ll die there!!”
 
-Akira immediately turned and ran as fast as he could. He blazed through the alley as debris crumbled down. Surrounding buildings were shaking because of the impact from the warhead. He followed Alpha’s instruction to hide in a room inside a building not too far away from there. Outside, the sound and shaking from the cannons were still present as dust and shards from the ceiling showered down on Akira.
+Akira immediately turned and ran as fast as he could. He blazed through the alley as debris crumbled down. Surrounding buildings were shaking because of the impact from the warhead. He followed Alpha’s instruction to hide in a room inside a building not too far away from there. Outside, the sound and shaking from the cannons were still present as dust and shards from the ceiling showered down on Akira. ^1bf1a7
 
 Alpha looked at him with a cold expression and said to him in a harsh tone.
 
