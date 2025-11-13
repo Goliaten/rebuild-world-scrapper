@@ -1,4 +1,4 @@
-- [ ] Przetwórz rozdział 3
+- [ ] Przetwórz rozdział 3 [[Chapter 3, The One Who is Responsible For Resolve#^99e1bf]]
 - [ ] Napisz ponownie informacje w:
 	- [ ] [[Akira]]
 	- [ ] [[Alpha]]

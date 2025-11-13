@@ -15,6 +15,7 @@ tags:
 - Didn't know how to read or write before meeting alpha[^9]
 - Goes to sleep early. [^10] Knows how to hide himself to go to sleep. [^11]
 - Could have woken up to a robber stealing from him. [^12]
+- Has a conviction to become a hunter so that he can eat safe and delicious meals. [^13]
 
 
 
@@ -42,3 +43,5 @@ tags:
 [^11]: [[Chapter 3, The One Who is Responsible For Resolve#^136045]]
 
 [^12]: [[Chapter 3, The One Who is Responsible For Resolve#^19da6a]]
+
+[^13]: [[Chapter 3, The One Who is Responsible For Resolve#^d463bc]]

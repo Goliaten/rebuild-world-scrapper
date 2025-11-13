@@ -116,7 +116,7 @@ Akira stared into the food that he received. It was a sandwich wrapped in transp
 
 The food that he received was synthetic food produced by a still-functioning suspicious tool excavated from the old world ruins. The food was relatively safe to eat with vegetables that have been experimentally cultivated in the wasteland, though it was hard to measure in terms of the level of contamination of the area. It also came with meat from a biological monster that was believed to be safe for consumption. These kinds of food were distributed freely to the poor people of the slum with goodwill. ^b64ee7
 
-After giving out the food, they would wait for a while to check if someone died or mutated because of it. If nothing like that happened, they would sell it to the commoners. And then another food made from ingredients that no one knows for sure whether it’s safe or not, would be distributed next time.
+After giving out the food, they would wait for a while to check if someone died or mutated because of it. If nothing like that happened, they would sell it to the commoners. And then another food made from ingredients that no one knows for sure whether it’s safe or not, would be distributed next time. ^ee9c76
 
 That was the real identity of contents in his sandwich; its bread, and everything inside it.
 
@@ -126,7 +126,7 @@ The people who distributed the food would not say anything about it, but the peo
 
 The food’s taste was rather weird. Leaving the price and the safety aside, it’s not something that you would eat because you want to. You would only eat it if you wish to survive.
 
-Akira said to himself that he would become a successful hunter so that he would be able to eat safe and delicious meals. As he kept eating his weirdly flavoured and potentially toxic sandwich, he glanced onto the person who he thought would be able to grant him that dream. Alpha reacted by showing him a gentle smile.
+Akira said to himself that he would become a successful hunter so that he would be able to eat safe and delicious meals. As he kept eating his weirdly flavoured and potentially toxic sandwich, he glanced onto the person who he thought would be able to grant him that dream. Alpha reacted by showing him a gentle smile. ^d463bc
 
 Eventually, the people of the slum who survived by relying on the free food would pay back the generosity that they received. After all, they’re the first line of defence against the monsters that attack the city. They’ll be fighting against man-eating mutated creatures and autonomous weapons that would attack humans, using their raw flesh, blood, and guns that circulate freely in excessive amount in the slum. Thus buying time for the City’s defence squad to completely exterminate all attackers.
 
@@ -136,7 +136,7 @@ So in short, Akira becoming a Hunter meant that he did what the city expected fr
 
 …
 
-Akira went to the Kuzusuhara City ruin for the second time, but this time, he was traversing the ruin following Alpha’s guidance. Some part of the roads in the ruins were buried under the rubble of the destroyed buildings and thus, was much easier to get lost. There were even areas that were like a maze. If he wasn’t careful, he might get trapped in them. Not to mention, there were monsters that had turned this confusing place into their nest and there were also places constructed as a home for them.
+Akira went to the Kuzusuhara City ruin for the second time, but this time, he was traversing the ruin following Alpha’s guidance. Some part of the roads in the ruins were buried under the rubble of the destroyed buildings and thus, was much easier to get lost. There were even areas that were like a maze. If he wasn’t careful, he might get trapped in them. Not to mention, there were monsters that had turned this confusing place into their nest and there were also places constructed as a home for them. ^99e1bf
 
 The Hunters who came to the ruins in order to search for relics would hunt monsters that obstructed them from reaching their goal. They sometimes maintained a road leading deeper into the ruin to make their job easier. And, as they went deeper into the ruin, some of them would encounter strong monsters and meet their demise. After repeating this process multiple times, the terrain would be harder to traverse and filled with stronger monsters as you go deeper into the ruin. But of course, thanks to that, there would be fewer people who were able to go to the deeper part of the ruin, thus you could find valuable relics still left behind there. In short, the deeper you go, the more dangerous it is and the more money you can earn.
 

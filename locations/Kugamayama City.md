@@ -58,4 +58,4 @@ tags:
 
 [^13]: [[Chapter 3, The One Who is Responsible For Resolve#^b64ee7]]
 
-[^14]: [[r3,afte]]
+[^14]: [[Chapter 3, The One Who is Responsible For Resolve#^ee9c76]]
