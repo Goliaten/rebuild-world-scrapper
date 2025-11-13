@@ -8,85 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edde1736252e01c5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wn_chapters/Chapter 3, The One Who is Responsible For Resolve.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Chapter 3, The One Who is Responsible For Resolve"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dda933810842b1eb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "61d51ed98964c4da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "locations/The Ruins of the Old World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Ruins of the Old World"
-            }
-          },
-          {
             "id": "ea37096f6f437857",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline/timeline.md",
-                "mode": "source",
+                "file": "wn_chapters/Chapter 4, The Result Of Gambling With Ones Life.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "timeline"
-            }
-          },
-          {
-            "id": "4d57b0710a2f25ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/Alpha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alpha"
-            }
-          },
-          {
-            "id": "893ba09a8a6ec1b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Large mechanical monster 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Large mechanical monster 1"
+              "title": "Chapter 4, The Result Of Gambling With Ones Life"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e8c8ef0f4771a31e",
@@ -246,19 +182,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d57b0710a2f25ca",
+  "active": "ea37096f6f437857",
   "lastOpenFiles": [
-    "Monsters/Monsters.md",
-    "Large mechanical monster 1.md",
     "wn_chapters/Chapter 3, The One Who is Responsible For Resolve.md",
     "TODO.md",
-    "locations/The Ruins of the Old World.md",
     "timeline/timeline.md",
+    "characters/Alpha.md",
+    "Monsters/Monsters.md",
+    "Large mechanical monster 1.md",
+    "locations/The Ruins of the Old World.md",
     "wn_chapters/Chapter 1, Akira and Alpha.md",
     "Social/Human Civilisation.md",
     "characters/Akira.md",
     "locations/Kugamayama City.md",
-    "characters/Alpha.md",
     "Theories.md",
     "wn_chapters/Chapter 2, Alphas support.md",
     "Weapon dogs.md",

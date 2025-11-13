@@ -290,7 +290,7 @@ Akira frowned a bit. He had indeed overreacted for a bit now that Alpha pointed 
 
 “Fake body?”
 
-“Yep, my body is not real and is made with the help of computer graphics. I can freely modify my body’s gender, age, body form, attires at will.”
+“Yep, my body is not real and is made with the help of computer graphics. I can freely modify my body’s gender, age, body form, attires at will.” ^b4e8a1
 
 As if she wanted to prove her point, she suddenly transformed into a small girl younger than Akira. Then she kept changing her appearance from one to another across all ages in front of surprised Akira.
 

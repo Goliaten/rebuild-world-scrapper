@@ -18,4 +18,6 @@
 - [[Akira]] goes to [[Kuzusuhara Street Ruins]] for the second time searching for relics. (ch.3)
 	- he ventured deeper than the first time
 	- walked in circles several times from [[Akira]]'s perspective
-	- almost got killed by a mechanical monster
+	- almost got killed by a [[Large mechanical monster 1|mechanical monster]]
+	- [[Alpha]] tested [[Akira]]'s responses to different types of women, and different attires
+	- [[Akira]] steels his resolve

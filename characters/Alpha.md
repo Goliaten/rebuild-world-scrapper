@@ -14,7 +14,7 @@ tags:
 - Alpha is willing to abandon the person with old world access if he doesn't listen to her and believe her fully.[^7]
 - So beautiful that she's out of place being in slums.[^8]
 - She was naked before she met [[Akira]] to attract people's attention and make them less on alert[^10][^11]
-- Alpha'
+- Alpha's `default` look is fake. She can alter it to her will.[^12]
 # Looks
 ## Alpha's look before meeting akira
 [[Chapter 1, Akira and Alpha#^fd0705]] ==to rewrite==
@@ -43,3 +43,5 @@ tags:
 [^10]: [[Chapter 3, The One Who is Responsible For Resolve#^28e95f]]
 
 [^11]: [[Chapter 3, The One Who is Responsible For Resolve#^f217c9]]
+
+[^12]: [[Chapter 3, The One Who is Responsible For Resolve#^b4e8a1]]
