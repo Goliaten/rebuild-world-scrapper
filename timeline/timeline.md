@@ -16,3 +16,5 @@
 # T+1 day
 - [[Akira]] goes to Food distribution centre in [[Kugamayama City]]
 - [[Akira]] goes to [[Kuzusuhara Street Ruins]] for the second time searching for relics.
+	- he ventured deeper than the first time
+	- walked in circles several 

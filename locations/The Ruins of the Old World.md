@@ -4,7 +4,7 @@
 - Monsters in ruins, general description[^2] ==to rewrite==
 - Ruins are dangerous enough for a equipped and trained squad to get annihilated.[^1]
 - Hunters would sometimes maintain a road leading into deeper parts of ruins for easier traversal.[^4]
-- In general, the deeper you go, the more dangerous it is and the more relics you can find. One reason for more relics is that 
+- In general, the deeper you go, the more dangerous it is and the more relics you can find. One reason for more relics is that less people scavenge that place, and of course inner parts may have working machinery protecting, maintaining and defending it.[^4][^5]
 # Area danger level classification
 - Medium safe area[^3] ==to rewrite==
 
@@ -15,3 +15,5 @@
 [^3]: [[Chapter 1, Akira and Alpha#^877a5c]]
 
 [^4]: [[Chapter 3, The One Who is Responsible For Resolve#^b2e93a]]
+
+[^5]: Partly deduction, partly off of [^4]

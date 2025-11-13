@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monsters/Monsters.md",
+                "file": "timeline/timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monsters"
+              "title": "timeline"
             }
           },
           {
@@ -71,7 +71,8 @@
               "title": "TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,20 +233,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61d51ed98964c4da",
+  "active": "ea37096f6f437857",
   "lastOpenFiles": [
-    "TODO.md",
+    "Monsters/Monsters.md",
+    "wn_chapters/Chapter 3, The One Who is Responsible For Resolve.md",
     "locations/The Ruins of the Old World.md",
+    "wn_chapters/Chapter 1, Akira and Alpha.md",
+    "TODO.md",
     "Social/Human Civilisation.md",
     "timeline/timeline.md",
-    "wn_chapters/Chapter 3, The One Who is Responsible For Resolve.md",
-    "Monsters/Monsters.md",
     "characters/Akira.md",
     "locations/Kugamayama City.md",
     "characters/Alpha.md",
     "Theories.md",
     "wn_chapters/Chapter 2, Alphas support.md",
-    "wn_chapters/Chapter 1, Akira and Alpha.md",
     "Weapon dogs.md",
     "locations/Kuzusuhara Street Ruins.md",
     "Social/The Old World.md",
