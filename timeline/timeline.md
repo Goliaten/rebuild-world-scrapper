@@ -15,3 +15,4 @@
 - [[Akira]] goes to sleep deep in a scrap pile. (ch.3)
 # T+1 day
 - [[Akira]] goes to Food distribution centre in [[Kugamayama City]]
+- [[Akira]] goes to [[Kuzusuhara Street Ruins]] for the second time searching for relics.
