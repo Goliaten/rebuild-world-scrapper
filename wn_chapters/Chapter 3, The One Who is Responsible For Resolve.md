@@ -232,7 +232,7 @@ Alpha confirmed how Akira was feeling. So she decided to be more careful about g
 
 Looking at how Akira was a bit surprised, Alpha gave off a meaningful smile to him.
 
-“It’s limited only to some of the mechanical monsters and under a certain condition though. Those mechanical monsters are basically the autonomous weapon that runs on autopilot and programmed to eradicate any invaders. That type of machine gathers image from the outside through the image capturing devices spread around the area in order to get a good grasp of the situation of the area. At this very moment, the monster that we encountered earlier should still be attacking your fake image. Its first attack missed because of the same reason. This method won’t work on monsters with a built-in camera or if they only make a decision based on local information.”
+“It’s limited only to some of the mechanical monsters and under a certain condition though. Those mechanical monsters are basically the autonomous weapon that runs on autopilot and programmed to eradicate any invaders. That type of machine gathers image from the outside through the image capturing devices spread around the area in order to get a good grasp of the situation of the area. At this very moment, the monster that we encountered earlier should still be attacking your fake image. Its first attack missed because of the same reason. This method won’t work on monsters with a built-in camera or if they only make a decision based on local information.” ^c7141c
 
 “…Hypothetically speaking, what would’ve happened to me if that monster was of that local type monster?”
 

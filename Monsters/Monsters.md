@@ -10,6 +10,12 @@
 - Monsters can mutate away from their original looks[^8]
 - Mutations can happen when monster makes a mistake in executing its self remodeling[^9]
 - Monsters can have some kind of protocol, which allows them to remodel themselves[^9]
+# mechanical monsters
+- some may be simple autonomous weapons[^10]
+	- they're basically running on autopilot, exterminating any intruders they encounter[^10]
+- some mechs gather image data only from image capturing devices installed around them(but not on them)
+- in order to grasp outside situation they gather image of outside from image capturing devices spread around the area[^10]
+	- those that work like this can be tricked by modifying image of those cameras
 # Classification
 - Medium weak[^5] ==TO REWRITE==
 # Types
@@ -34,3 +40,5 @@
 [^8]: [[Chapter 2, Alphas support#^af02a8]]
 
 [^9]: [[Chapter 2, Alphas support#^57ff69]]
+
+[^10]: [[Chapter 3, The One Who is Responsible For Resolve#^c7141c]]

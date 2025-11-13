@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,11 +246,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d57b0710a2f25ca",
+  "active": "893ba09a8a6ec1b1",
   "lastOpenFiles": [
+    "Monsters/Monsters.md",
     "Large mechanical monster 1.md",
     "wn_chapters/Chapter 3, The One Who is Responsible For Resolve.md",
-    "Monsters/Monsters.md",
     "TODO.md",
     "locations/The Ruins of the Old World.md",
     "timeline/timeline.md",
