@@ -14,6 +14,7 @@
 # Types
 - Small dog monster[^6]
 - [[Weapon dogs]]
+- [[Large mechanical monster 1]]
 
 [^1]: [[Chapter 1, Akira and Alpha#^b28801]]
 

@@ -192,9 +192,9 @@ Just when he felt super annoyed because of what he had just found out, Alpha sud
 
 “Come back here at once!”
 
-Right after that, from the middle of the empty wasteland in front of his eyes, a light flickered together with a thundering sound. Then he could see a monster there as its optical camouflage temporarily lowered at the same time as its cannon fired. The moment Akira saw it, his face froze. In the middle of the place that he had thought was empty, a huge mechanical monster had stood with its camouflage function on.
+Right after that, from the middle of the empty wasteland in front of his eyes, a light flickered together with a thundering sound. Then he could see a monster there as its optical camouflage temporarily lowered at the same time as its cannon fired. The moment Akira saw it, his face froze. In the middle of the place that he had thought was empty, a huge mechanical monster had stood with its camouflage function on. ^306376
 
-The big warhead landed on a building not too far away from Akira. In an instant, that building was blown into smithereens together with the deafening sound and huge explosion from the impact of the warhead. It caused huge rubble to rain down around the area and left a huge crater. The explosion was so big that the ground where Akira was standing shook.
+The big warhead landed on a building not too far away from Akira. In an instant, that building was blown into smithereens together with the deafening sound and huge explosion from the impact of the warhead. It caused huge rubble to rain down around the area and left a huge crater. The explosion was so big that the ground where Akira was standing shook. ^eb5b4c
 
 Looking at how Akira was petrified due to the shock, Alpha yelled at him.
 
